@@ -7,3 +7,5 @@ gradio
 langchain
 langchain_chroma
 plotly
+ipywidgets
+openai
