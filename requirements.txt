@@ -1,0 +1,9 @@
+python-dotenv
+ipykernel
+numpy
+pandas
+langchain_openai
+gradio
+langchain
+langchain_chroma
+plotly
