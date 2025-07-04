@@ -12,3 +12,7 @@ openai
 langchain_community
 scikit-learn
 langchain_ollama
+nbformat
+matplotlib
+scipy
+jupyterlab
